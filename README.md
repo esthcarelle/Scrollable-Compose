@@ -18,6 +18,13 @@ A practical demonstration of scrolling techniques in Jetpack Compose, from basic
     - Book catalog demo
     - Image carousel
     - Performance comparisons
+      
+## Screenshots
+![Screencast From 2025-03-25 14-19-19](https://github.com/user-attachments/assets/31dcd39c-a23e-4003-a663-dd21d231dba1)
+![Screencast From 2025-03-25 14-27-21](https://github.com/user-attachments/assets/5cc20aa6-b911-48b8-96ec-e74ea2241b56)
+![Screencast From 2025-03-25 14-39-55](https://github.com/user-attachments/assets/515fb80a-cf9f-4717-b303-773f80b0aadd)
+![Screencast From 2025-03-25 14-46-31](https://github.com/user-attachments/assets/ae5f2b97-c74d-4883-9fbd-78746d7140c3)
+
 
 ## 🛠️ Setup
 
